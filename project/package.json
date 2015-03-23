@@ -1,0 +1,23 @@
+{
+"name": "Grocery-store-online-test",
+"version": "0.0.1",
+"description": "Ejemplo de desarrollo de aplicación web c
+on JavaScript",
+"bugs": {
+"url": "https://github.com/carlosazaustre/ebook-fronten
+d-project/issues",
+"email": "alexar89@gmail.com"
+},
+"license": "MIT",
+"author": {
+"name": "Diego Mora",
+"email": "Alexar89@gmail.com",
+"url": "github.com/Alexar89"
+},
+"repository": {
+"type": "project",
+"url": "https://github.com/Alexar89/project"
+},
+"dependencies": {},
+"devDependencies": {}
+}
